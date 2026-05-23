@@ -1,5 +1,5 @@
-## Hi there 👋 I'm
-# Anna Milena Papanakli
+## Hi there 👋
+# I'm Anna Milena
 
 **I like building things - from interviews, to desgining, to implementing them - I love doing it end-to-end.
 Especially if they reveal complex systems for non-techy people.**
