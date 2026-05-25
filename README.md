@@ -25,7 +25,7 @@ I move between code, design, user, and product - I like building the thing more 
 
 ### Elsewhere
 
-- LinkedIn → [anna-papanakli](https://www.linkedin.com/in/anna-papanakli-525710200/)
+- LinkedIn → [anna-papanakli](https://www.linkedin.com/in/anna-milena-papanakli-525710200/)
 - Kitechain → [kitechain.net](https://www.kitechain.net)
 - Email → anna.papanakli@gmail.com
 
